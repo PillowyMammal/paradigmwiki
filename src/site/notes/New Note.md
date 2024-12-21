@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/new-note/","tags":["gardenEntry"]}
 ---
 
-
+# My Comprehensive Guide to Not Get Confused or Stuck in Warframe
 So, you’re overwhelmed, lost, and in need of a guiding hand for warframe?
 Fuck me too man, lmao.
 If you're reading this, then that means you either just finished The Sacrifice or you are Theory. Congrats!
